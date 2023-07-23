@@ -2,7 +2,7 @@
 
 ## 一位内心丰盈者，独行也如众的Coder。
 
-- 🏡 状态：**大二在校生**
+- 🏡 状态：**大三在校生**
 - 👨‍💻 方向：**Java后端，了解前端**
 - 📝 博客：[CSDN](https://blog.csdn.net/Enndfp?spm=1000.2115.3001.5343) 
 
@@ -13,7 +13,7 @@
 
 ### 后端
 
-Java面向对象、JavaWeb、MySQL、Git、Maven管理工具、Spring、MyBatis、MyBatis-Plus、SpringBoot2、Redis、SpringCloud
+Java、JavaWeb、Spring、SpringMvc、MyBatis、MyBatis-Plus、SpringBoot、SpringCloud、MySQL、Redis、RabbitMQ、Kafka、Git、Maven、Docker
 
 ### 前端
 
