@@ -17,7 +17,7 @@ Java、JavaWeb、Spring、SpringMvc、MyBatis、MyBatis-Plus、SpringBoot、Spri
 
 ### 前端
 
-HTML、CSS、JavaScript、Ajax、Vue2、Vue3、Ant Design 
+HTML、CSS、JavaScript、Ajax、Vue2、Vue3、Ant Design Pro
 
 ## GitHub汇总
 
